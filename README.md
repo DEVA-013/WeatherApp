@@ -26,18 +26,6 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays t
 
 ---
 
-## 📂 Project Structure
-
-weather-app/
-│
-├── index.html          # Main HTML file
-├── style.css           # Styling (pastel purple theme)
-├── script.js           # Main JS logic
-├── config.js           # API key file (excluded from GitHub)
-├── .gitignore          # Ignore sensitive files
-└── README.md           # Project description
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -67,7 +55,7 @@ weather-app/
 
 ---
 
-## 📸 Screenshot (Optional)
+## 📸 Screenshot 
 
 ![Weather App Preview](assets/preview.png)
 
