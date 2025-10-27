@@ -42,7 +42,7 @@ weather-app/
 ## ⚙️ Setup Instructions
 
 1. **Clone or download** this repository:
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/DEVA-013/WeatherApp.git
 
 2. **Create a new file** named `config.js` in the project root:
    // config.js
@@ -69,7 +69,7 @@ weather-app/
 
 ## 📸 Screenshot (Optional)
 
-![Weather App Preview](screenshot.png)
+![Weather App Preview](assets/preview.png)
 
 ---
 
