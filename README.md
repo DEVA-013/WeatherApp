@@ -27,22 +27,6 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays t
 ---
 
 
-## ⚙️ Setup Instructions
-
-1. **Clone or download** this repository:
-   git clone https://github.com/DEVA-013/WeatherApp.git
-
-2. **Create a new file** named `config.js` in the project root:
-   // config.js
-   const apiKey = "your_openweathermap_api_key";
-
-3. **Add config.js to .gitignore** so your API key isn’t public:
-   config.js
-
-4. **Open `index.html` in your browser** — no server setup required!
-
----
-
 ## 💡 Example Usage
 
 1. Type a city name (e.g., “Chennai”).  
